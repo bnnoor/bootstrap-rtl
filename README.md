@@ -1,4 +1,3 @@
-bootstrap-rtl
-=============
+## RTL Support for Bootstrap 3.x
 
-Right to Left support for Bootstrap v3.1.x
+**Please check http://github.com/morteza/bootstrap-rtl for more info and assets.**
